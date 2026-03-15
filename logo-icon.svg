@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Cube-inspired geometric mark for IDR -->
+  <!-- Top face -->
+  <polygon points="40,6 66,21 40,36 14,21" fill="#FF6B00"/>
+  <!-- Left face -->
+  <polygon points="14,21 40,36 40,66 14,51" fill="#1A1A1A"/>
+  <!-- Right face -->
+  <polygon points="66,21 40,36 40,66 66,51" fill="#333333"/>
+  <!-- Digital risk indicator: small accent cube on top-right corner -->
+  <polygon points="57,12 66,17 57,22 48,17" fill="#FF8C00" opacity="0.6"/>
+</svg>
